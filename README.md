@@ -25,6 +25,18 @@ Lead Management Web-Application is a modern web application designed for HSR Mot
 - API Client: Axios
 - Testing: Jest & React Testing Library
 
+## Reference Screenshots of the Web-Application 
+![Screenshot (765)](https://github.com/user-attachments/assets/5df13255-216b-403b-a725-49a68b1f7677)
+
+![Screenshot (766)](https://github.com/user-attachments/assets/9776f4bd-2acc-4529-880e-a1183569637c)
+
+![Screenshot (767)](https://github.com/user-attachments/assets/1aac0775-3af5-412a-97a7-49c5487e8f06)
+
+![Screenshot (768)](https://github.com/user-attachments/assets/c0afb989-18e0-4f8a-8043-bf1fedc19d66)
+
+![Screenshot (769)](https://github.com/user-attachments/assets/3263b4f1-4995-4014-bcf8-fcdc652953a9)
+
+
 ## Installation
 ```bash
 # Clone the repository
